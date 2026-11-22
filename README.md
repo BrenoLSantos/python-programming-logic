@@ -2,20 +2,16 @@ Python Programming Logic
 
 This repository contains exercises and implementations developed while studying programming logic and Python fundamentals.
 
-Topics
+- Lists
 
-Lists
+- Loops
 
-Loops
+- Functions
 
-Functions
+- Strings
 
-Strings
+- Algorithms
 
-Algorithms
-
-Index manipulation
-
-Purpose
+- Index manipulation
 
 The purpose of this repository is to document my progress in programming, strengthen my computational thinking, and practice implementing algorithms without relying exclusively on built-in functions.
